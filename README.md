@@ -4,7 +4,7 @@
 
 On this page, you will be able to follow links to my other repositories. They are categorized by dataset so the visualization information is consistent and easier to follow.
 
-### Dataset Projects:
+## Dataset Projects:
 
 1. [MPG Dataset](https://portfoliognat.github.io/MPG/)
 
