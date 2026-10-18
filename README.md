@@ -6,7 +6,7 @@ On this page, you will be able to follow links to my other repositories. They ar
 
 ## Dataset Projects:
 
-1. [MPG Dataset](https://portfoliognat.github.io/MPG/)
+1. [MPG (Miles Per Gallon) Dataset](https://portfoliognat.github.io/MPG/)
 
 
 
