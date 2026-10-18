@@ -2,11 +2,14 @@
 
 # Welcome to the main directory of all of my Data Visualization Projects for my DAT2002 course!
 
-On this page, you will be able to follow links to my other repositories. They are categorized by dataset so the visualization information is consistent and easier to follow.
+On this page, you will be able to follow links to my other repositories. They are categorized by dataset so the visualization information is consistent and easier to follow.\
+I will also include a quick resources menu and quick notes for separate pieces of code in case someone wants to recreate some of the visualizations.
 
 ## Dataset Projects:
 
 1. [MPG (Miles Per Gallon) Dataset](https://portfoliognat.github.io/MPG/)
+
+## Resources:
 
 
 
