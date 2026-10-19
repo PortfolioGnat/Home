@@ -1,5 +1,5 @@
 # Home
-__
+___
 # Welcome to the main directory of all of my Data Visualization Projects!
 
 This page includes links to my other repositories. They are categorized by dataset so the visualization information is consistent and easier to follow.\
