@@ -16,6 +16,7 @@ I will also include a quick list of resources so people can explore the tools I 
 - [Fuel Econonmy Gov Website](https://fueleconomy.gov/)
 
 ### Color Sources:
+- [Color Picker Tool](https://htmlcolorcodes.com/color-picker/)
 - [Color Converter Tool](https://www.w3schools.com/colors/colors_converter.asp)
 - [Color Contrast Checker Tool](https://webaim.org/resources/contrastchecker/)
 - [ggplot Color Reference Notes](https://ggplot2.tidyverse.org/reference/aes_colour_fill_alpha.html)
