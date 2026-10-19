@@ -12,12 +12,12 @@ I will also include a quick list of resources so people can explore the tools I 
 
 ## Resources:
 
-### MPG Dataset:
-- [Fuel Econonmy Gov](https://fueleconomy.gov/)
+### MPG Dataset Sources:
+- [Fuel Econonmy Gov Website](https://fueleconomy.gov/)
 
-### Colors:
+### Color Sources:
 - [Color Converter Tool](https://www.w3schools.com/colors/colors_converter.asp)
-- [ggplot Color Reference](https://ggplot2.tidyverse.org/reference/aes_colour_fill_alpha.html)
-- [Viridis Color Scale](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html/)
-- [Non-Text Contrast](https://www.w3.org/WAI/WCAG21/Understanding/non-text-contrast/)
+- [ggplot Color Reference Notes](https://ggplot2.tidyverse.org/reference/aes_colour_fill_alpha.html)
+- [Viridis Color Scale](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html)
+- [Non-Text Contrast Notes](https://www.w3.org/WAI/WCAG21/Understanding/non-text-contrast)
 - [Color Contrast Checker](https://webaim.org/resources/contrastchecker/)
