@@ -15,6 +15,9 @@ I will also include a quick list of resources so people can explore the tools I 
 ### MPG Dataset Sources:
 - [Fuel Econonmy Gov Website](https://fueleconomy.gov/)
 
+### Gini Dataset Sources:
+- [Gini Coefficient Wikipedia](https://en.wikipedia.org/wiki/Gini_coefficient)
+
 ### Color Sources:
 - [Color Picker Tool](https://htmlcolorcodes.com/color-picker/)
 - [Color Converter Tool](https://www.w3schools.com/colors/colors_converter.asp)
