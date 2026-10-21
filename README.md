@@ -17,6 +17,7 @@ I will also include a quick list of resources so people can explore the tools I 
 
 ### Gini Dataset Sources:
 - [Gini Coefficient Wikipedia](https://en.wikipedia.org/wiki/Gini_coefficient)
+- [Smoothing](https://en.wikipedia.org/wiki/Smoothing)
 
 ### Color Sources:
 - [Color Picker Tool](https://htmlcolorcodes.com/color-picker/)
