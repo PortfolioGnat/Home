@@ -12,13 +12,6 @@ I will also include a quick list of resources so people can explore the tools I 
 
 ## Resources:
 
-### MPG Dataset Sources:
-- [Fuel Econonmy Gov Website](https://fueleconomy.gov/)
-
-### Gini Dataset Sources:
-- [Gini Coefficient Wikipedia](https://en.wikipedia.org/wiki/Gini_coefficient)
-- [Smoothing in Visualizations](https://en.wikipedia.org/wiki/Smoothing)
-
 ### Color Sources:
 - [Color Picker Tool](https://htmlcolorcodes.com/color-picker/)
 - [Color Converter Tool](https://www.w3schools.com/colors/colors_converter.asp)
@@ -26,3 +19,10 @@ I will also include a quick list of resources so people can explore the tools I 
 - [ggplot Color Reference Notes](https://ggplot2.tidyverse.org/reference/aes_colour_fill_alpha.html)
 - [Viridis Color Scale Notes](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html)
 - [Non-Text Contrast Notes](https://www.w3.org/WAI/WCAG21/Understanding/non-text-contrast)
+
+### MPG Dataset Sources:
+- [Fuel Econonmy Gov Website](https://fueleconomy.gov/)
+
+### Gini Dataset Sources:
+- [Gini Coefficient Wikipedia](https://en.wikipedia.org/wiki/Gini_coefficient)
+- [Smoothing in Visualizations](https://en.wikipedia.org/wiki/Smoothing)
