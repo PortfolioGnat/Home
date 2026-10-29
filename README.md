@@ -20,9 +20,16 @@ I will also include a quick list of resources so people can explore the tools I 
 - [Viridis Color Scale Notes](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html)
 - [Non-Text Contrast Notes](https://www.w3.org/WAI/WCAG21/Understanding/non-text-contrast)
 
+### Good To Know Tips:
+When starting or restarting a new RStudio session, it's a good habit to install and load different packages:
+- library(tidyr)
+- library(dplyr)
+- library(mosaic)
+
 ### MPG Dataset Sources:
 - [Fuel Econonmy Gov Website](https://fueleconomy.gov/)
 
 ### Gini Dataset Sources:
 - [Gini Coefficient Wikipedia](https://en.wikipedia.org/wiki/Gini_coefficient)
 - [Smoothing in Visualizations](https://en.wikipedia.org/wiki/Smoothing)
+
