@@ -26,8 +26,6 @@ When starting or restarting a new RStudio session, it's a good habit to install 
 - library(dplyr)
 - library(mosaic)
 - library(ggplot2)
-- install.packages("plotly")
-- library(plotly)
 
 ### MPG Dataset Sources:
 - [Fuel Econonmy Gov Website](https://fueleconomy.gov/)
