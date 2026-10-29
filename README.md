@@ -25,6 +25,7 @@ When starting or restarting a new RStudio session, it's a good habit to install 
 - library(tidyr)
 - library(dplyr)
 - library(mosaic)
+- library(ggplot2)
 
 ### MPG Dataset Sources:
 - [Fuel Econonmy Gov Website](https://fueleconomy.gov/)
